@@ -1,0 +1,86 @@
+.wrapper{
+    background-color: white;
+    display: flex;
+    width: 80%;
+    height: 600px;
+    margin-left: 130px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
+.form-wrapper{
+    margin-top: 30px;
+    padding-left: 150px;
+}
+.form-wrapper h1{
+    font-size: x-large;
+    font-weight: 700;
+}
+.form-wrapper p{
+    padding-bottom: 5px;
+    line-height: 23px;
+}
+input{
+    padding:10px 60px 10px 10px;
+    border-radius: 6px;
+    border: 1px solid rgb(37, 136, 66);
+    margin-top: 5px;
+    
+}
+#forgot {
+    margin-left: 130px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.sign-up{
+    padding: 10px 100px;
+    border-radius: 6px;
+    background-color: #edb046;
+    border: none;
+    color: white;
+    text-align: center;
+    margin-right: 20px;
+}
+
+button{
+    padding: 8px 43px;
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+    margin-top: 10px;
+    background-color: #edb046;
+    border: none;
+}
+.google{
+    padding: 8px 50px;
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+    margin-top: 10px;
+    background-color: #edb046;
+    border: none;
+}
+.label-input{
+    margin-top: 15px;
+}
+.sign-link{
+    text-align: center;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.option{
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+.line{
+    height: 1px;
+    width: 100px;
+    margin-right: 10px;
+    background-color: rgb(170, 173, 175);
+}
+.line-1{
+    height: 1px;
+    width: 100px;
+    margin-left: 10px;
+    background-color: rgb(170, 173, 175);
+}
